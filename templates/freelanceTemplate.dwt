@@ -12,7 +12,7 @@
 </head>
 
 <body>
-<img src="../images/Logo.png" width="1000" height="98" alt=""/>
+<center><img src="../images/Logo.png" width="1000" height="98" alt=""/></center>
 
 <div id="main">
 	<ul class="navmenu">
