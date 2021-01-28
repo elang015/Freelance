@@ -30,13 +30,10 @@
 	<!-- TemplateBeginEditable name="content" -->
 	
 
-  <img src="../images/Eric Lang.jpg" width="323" height="176" alt=""/> 
-	<img src="../images/Logo 3.jpg" width="323" height="176" alt=""/>
-  <p>Welcome to the world's number-one website for technology since 2020! Want to learn more about the world of technology? Well, you can! Here we are the #1 site of web design! We have new ideas for anyone who's interested in this particular field of study! We have over a million followers from all around the world!
-  </p>
- 
-	
-		<!-- TemplateEndEditable -->
+  <center>
+    <p><img src="../images/Logo 3.jpg" width="450" height="320" alt=""/></p>
+  </center>
+	<!-- TemplateEndEditable -->
 </div><!--content end here-->
 	
 	
