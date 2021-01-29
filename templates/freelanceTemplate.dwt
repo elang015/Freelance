@@ -12,35 +12,36 @@
 </head>
 
 <body>
-<center><img src="../images/Logo.png" width="1000" height="98" alt=""/></center>
+<center>
+  <img src="../images/Logo.png" width="1000" height="98" alt=""/>
+</center>
 
 <div id="main">
-	<ul class="navmenu">
+  <ul class="navmenu">
 	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About Us</a></li>
-	<li><a href="../services.html">Our Services</a></li>
-		<li><a href="../contacts.html">Contact</a></li>
-</ul>
-	
-
+    <li><a href="../about.html">About Us</a></li>
+    <li><a href="../services.html">Our Services</a></li>
+    <li><a href="../contacts.html">Contact</a></li>
+  </ul>
+    
 </div>
 	
 	
 <div id="content">
-	<!-- TemplateBeginEditable name="content" -->
-	
-
+  <!-- TemplateBeginEditable name="content" -->
+    
+    
   <center>
     <p><img src="../images/Logo 3.jpg" width="450" height="320" alt=""/></p>
   </center>
-	<!-- TemplateEndEditable -->
-</div><!--content end here-->
+  <!-- TemplateEndEditable -->
+</div>
+<!--content end here-->
 	
 	
 <div id="footer">
-	<p>Phone number: 1 (800) 428-3190</p>
-<p>Email: elang@tech-world.net</p>
+  <p>Phone number: 1 (800) 428-3190</p>
+  <p>Email: elang@tech-world.net</p>
 </div>
-
 </body>
 </html>
